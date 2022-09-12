@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/progress_bar
+progress_bar.so
+progress_bar.dylib
+progress_bar.dll
+progress_bar.a
+progress_bar.lib
+progress_bar-test-*
+*.exe
+*.o
+*.obj
+*.lst

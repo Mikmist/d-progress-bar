@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Zino Holwerda"
+	],
+	"copyright": "Copyright © 2022, Zino Holwerda",
+	"description": "A Simple, Customizable Porgress Bar",
+	"license": "MIT",
+	"name": "progress_bar",
+	"targetType": "library",
+	"dependencies": {
+		"terminal": "1.0.0"
+	}
+}
